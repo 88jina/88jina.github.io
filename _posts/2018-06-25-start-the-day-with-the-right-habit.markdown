@@ -6,7 +6,7 @@ image:  11.png
 tags:   TeamProject
 ---
 
-[GitHub] (https://github.com/88jina/team_project)
+[GitHub] <https://github.com/88jina/team_project>
 
 ## 불필요한 유통구조를 날려버린 농산물 직거래 공동구매 서비스
 
