@@ -10,8 +10,10 @@ Git : https://github.com/88jina/team_project
 
 ## 불필요한 유통구조를 날려버린 농산물 직거래 공동구매 서비스
 
-*JAVA8, Spring, MySQL, MyBatis를 이용하여 클라이언트 사이드로 렌더링한 팀 프로젝트
-*Front : vanilla js
+
++ JAVA8, Spring, MySQL, MyBatis를 이용하여 클라이언트 사이드로 렌더링한 팀 프로젝트
++ Front : vanilla js
+
 
 ![]({{ site.baseurl }}/images/12.png)
 *로그인 화면*
