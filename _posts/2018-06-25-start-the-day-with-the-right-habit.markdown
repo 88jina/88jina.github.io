@@ -64,7 +64,7 @@ Java mailSender 라이브러리를 이용하여 이메일 인증을 구현하였
 
 캠프를 수료할 때 이 방법이 일반적이지 않다는 피드백을 들었고, 이메일 인증을 다시 구현한다면 db에 인증키와 메일주소를 담아 놓고 인증확인을 위해 서버통신을 해야한다.
 
-```java
+'''java
     @RequestMapping(value = "/api/auth/sendMail", method = RequestMethod.GET)
     public AuthBean makeAuthKey(UserBean userBean, HttpServletResponse res) {
         AuthBean authBean = new AuthBean();
@@ -93,5 +93,5 @@ Java mailSender 라이브러리를 이용하여 이메일 인증을 구현하였
 
         return authBean;
     }
-```
+'''
 
