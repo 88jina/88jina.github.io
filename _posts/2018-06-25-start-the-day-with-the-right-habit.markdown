@@ -12,6 +12,7 @@ tags:   TeamProject
 
 
 + JAVA8, Spring, MySQL, MyBatis를 이용하여 클라이언트 사이드로 렌더링한 팀 프로젝트
++ 백엔드 전반을 혼자 담당하였음
 + Front : vanilla js
 
 
