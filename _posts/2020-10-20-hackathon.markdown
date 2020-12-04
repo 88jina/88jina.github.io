@@ -2,7 +2,7 @@
 layout: post
 title:  친환경 패션기업 소개 서비스 
 date:   2020-10-25 15:01:35 +0300
-image:  zero.jpg
+image:  zero.JPG
 tags:   TeamProject
 ---
 
