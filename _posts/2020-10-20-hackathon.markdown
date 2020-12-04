@@ -7,7 +7,8 @@ tags:   TeamProject
 ---
 
 [GitHub]  
-<https://github.com/88jina/WTM_hackathon>  
+<https://github.com/88jina/WTM_hackathon>
+
 <https://github.com/88jina/hackathon>
 
 ## 2020 WTM HACKATHON
