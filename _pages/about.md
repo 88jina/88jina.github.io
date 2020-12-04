@@ -6,7 +6,7 @@ permalink: /about/
 
 
 ## 책임감 있는 백엔드 엔지니어, 박진아  
-![]({{ site.baseurl }}/images/me.JPG)
+![]({{ site.baseurl }}/images/me.jpg)
 CONTACT 
 ---
 - [Email] tobecreative@kakao.com
