@@ -3,6 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
+![]({{ site.baseurl }}/images/me.JPG)
 
 ## 책임감 있는 백엔드 엔지니어, 박진아  
 
